@@ -2,6 +2,8 @@
 ![60a709fd187e7939147694e1_1_ULfna2QYPV4qQFsTOSeAOw](https://user-images.githubusercontent.com/108831247/230127207-2ccaa91c-1819-4bba-a07e-eb2894a6110b.png)
 
 This Repository Contains Hackerrank Practice Solutions which will be eventually updated as I solve.
+
+
 #### C Language HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
@@ -31,3 +33,12 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Structs%20and%20Enums/Small%20Triangles%2C%20Large%20Triangles.c) | 30 |
 | Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | Solution | 50 |
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | Solution | 60 |
+
+
+
+#### Problem Solving HackerRank Practice Solutions:
+| **Sub-Topic** | **Challenge** | **Solution** | **Score** |
+| ------------- | ------------- | ------------ | --------- |
+
+
+
