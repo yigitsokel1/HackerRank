@@ -22,17 +22,17 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | Arrays and Strings | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Arrays%20and%20Strings/Array%20Reversal.c) | 20 |
 | Arrays and Strings | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Arrays%20and%20Strings/Printing%20Tokens.c) | 20 |
 | Arrays and Strings | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Arrays%20and%20Strings/Digit%20Frequency.c) | 25 |
-| Arrays and Strings | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c) | Solution | 40 |
+| Arrays and Strings | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Arrays%20and%20Strings/Dynamic%20Array%20in%20C.c) | 40 |
 | Functions | [Calculate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Calculate%20the%20Nth%20term.c) | 15 |
 | Functions | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Students%20Marks%20Sum.c) | 20 |
 | Functions | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Sorting%20Array%20of%20Strings.c) | 40 |
-| Functions | [Permutations of String](https://www.hackerrank.com/challenges/permutations-of-strings) | Solution | 40 |
+| Functions | [Permutations of String](https://www.hackerrank.com/challenges/permutations-of-strings) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Permutations%20of%20String.c) | 40 |
 | Functions | [Variadic Functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Variadic%20functions%20in%20C.c) | 50 |
-| Functions | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document) | Solution | 60 |
+| Functions | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Functions/Querying%20the%20Document.c) | 60 |
 | Structs and Enums | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Structs%20and%20Enums/Boxes%20through%20a%20Tunnel.c) | 25 |
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Structs%20and%20Enums/Small%20Triangles%2C%20Large%20Triangles.c) | 30 |
-| Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | Solution | 50 |
-| Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | Solution | 60 |
+| Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Structs%20and%20Enums/Post%20Transition.c) | 50 |
+| Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/C%20Solutions/Structs%20and%20Enums/Structuring%20the%20Document.c) | 60 |
 
 
 
