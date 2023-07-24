@@ -39,6 +39,16 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 #### Problem Solving HackerRank Practice Solutions:
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
+| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Solve%20Me%20First.c) | 1 |
+| Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Simple%20Array%20Sum.c) | 10 |
+| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Compare%20the%20Triplets.c) | 10 |
+| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/A%20Very%20Big%20Sum.c) | 10 |
+| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Diagonal%20Difference.c) | 10 |
+| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Plus%20Minus.c) | 10 |
+| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Staircase.c) | 10 |
+| Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Mini-Max%20Sum.c) | 10 |
+| Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Birthday%20Cake%20Candles.c) | 10 |
+| Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion?isFullScreen=true) | [Solution](https://github.com/yigitsokel1/HackerRank/blob/main/Problem%20Solving%20Solutions/Warmup/Time%20Conversion.c) | 15 |
 
 
 
